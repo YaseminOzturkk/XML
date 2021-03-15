@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IMDB Top Rated Movies Catalog>
+	<movie>
+		<id>01</id>
+		<title>Esaretin Bedeli</title>
+        <original_title>The Shawshank Redemption</original_title>
+        <year>1994</year>
+        <director>Frank Darabont</director>
+        <writer> Mario Puzo (screenplay by), Francis Ford Coppola (screenplay by)</ writer >
+        <stars>Tim Robbins, Morgan Freeman, Bob Gunton</stars>
+        <genres>Drama</genres>
+		<runtime>142 min.</runtime>
+		<imdb_rating>9,2</ imdb_rating>
+        <country>USA</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0111161/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_1</url>
+    
+    </movie>
+	<movie>
+		<id>02</id>
+		<title>Baba</title>
+        <original_title>The Godfather</ original_title>
+        <year>1972</year>
+        <director>Francis Ford Coppola</director>
+        <writer> Mario Puzo (screenplay by), Francis Ford Coppola (screenplay by)</writer>
+        <stars> Marlon Brando, Al Pacino, James Caan</stars>
+        <genres>Crime,Drama</genres >
+		<runtime>175 min.</runtime>
+		<imdb_rating>>9,1</ imdb_rating>>
+        <country >USA</country >
+        <language >English</language >
+		<url>https://www.imdb.com/title/tt0068646/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_2</url>
+    
+    </movie>
+	<movie>
+		<id>03</id>
+        <title>Baba 2</title>
+		<original_title>The Godfather: Part II </original_title>
+        <year>1974</year>
+        <director>Francis Ford Coppola</director>
+        <writer>Jonathan Nolan (screenplay), Christopher Nolan (screenplay)</writer>
+        <stars>Al Pacino, Robert De Niro, Robert Duvall</stars>
+        <genres>Crime,Drama</genres>
+		<runtime>202 min.</runtime>
+        <imdb_rating >9,0</imdb_rating >
+        <country >USA</country >
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0071562/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_3</url>
+    
+    </movie>
+	<movie>
+		<id>04</id>
+		<title>Kara Şövalye</title>
+        <original_title>The Dark Knight</original_title>
+        <year>2008</year>
+        <director>Christopher Nolan</director>
+        <writer>Jonathan Nolan (screenplay), Christopher Nolan (screenplay)</writer>
+        <stars>Christian Bale, Heath Ledger, Aaron Eckhart</stars>
+        <genres>Action, Crime, Drama</genres>
+		<runtime>152 min.</runtime>
+        <imdb_rating >9,0</ imdb_rating >
+        <country>USA</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4</url>
+    
+    </movie>
+	<movie>
+		<id>05</id>
+		<title>12 Öfkeli Adam</title>
+        <original_title>12 Angry Men</original_title>
+        <year>1957</year>
+        <director>Christopher Nolan</director>
+        <writer>Reginald Rose (story), Reginald Rose (screenplay)</writer>
+        <stars>Henry Fonda, Lee J. Cobb, Martin Balsam</stars>
+        <genres>Crime, Drama</genres>
+		<runtime>96 min.</runtime>
+        < imdb_rating >8,9</ imdb_rating >
+        <country>USA</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0050083/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_5</url>
+    
+    </movie>
+    <movie>
+		<id>06</id>
+		<title>Schindler'in Listesi</title>
+        <original_title>Schindler's List</original_title>
+        <year>1993</year>
+        <director>Schindler's List</director>
+        <writer>Thomas Keneally (book), Steven Zaillian</writer>
+        <stars>Liam Neeson, Ralph Fiennes, Ben Kingsley</stars>
+        <genres>Biography, Drama, History</genres >
+		<runtime>195 min.</runtime>
+		<imdb_rating>8,9</ imdb_rating >
+        <country>USA</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0108052/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_6</url>
+    
+    </movie>
+	<movie>
+		<id>07</id>
+		<title>Yüzüklerin Efendisi: Kralın Dönüşü</title>
+        <original_title>The Lord of the Rings: The Return of the King</original_title>        
+        <year>2003</year>
+        <director>Peter Jackson</direcctor>
+        <writer>J.R.R. Tolkien (novel), Fran Walsh (screenplay)</writer>
+        <stars>Elijah Wood, Viggo Mortensen, Ian McKellen</stars>
+        <genres>Action, Adventure, Drama</genres>
+		<runtime>201 min.</runtime>
+        <imdb_rating>8,9</imdb_rating>
+        <country>New Zealand</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0167260/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_7</url>
+    
+    </movie>
+    <movie>
+		<id>08</id>
+		<title>Ucuz Roman</title>
+        <original_title>Pulp Fiction</original_title>
+        <year>1994</year>
+        <director>Quentin Tarantino</director>
+        <writer>Quentin Tarantino (stories), Roger Avary (stories)</writer>
+        <stars>John Travolta, Uma Thurman, Samuel L. Jackson</stars>
+        <genres>Crime, Drama</genres>
+		<runtime>154 min.</runtime>
+        <imdb_rating>8,8</imdb_rating>
+        <country>USA</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0110912/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_8</url>
+    
+    </movie>
+	<movie>
+		<id>09</id>
+		<title>İyi, Kötü ve Çirkin</title>
+        <original_title>Il buono, il brutto, il cattivo</original_title>
+        <year>1994</year>
+        <director>Sergio Leone</director>
+        <writer>Luciano Vincenzoni (story), Sergio Leone (story)</writer>
+        <stars>Clint Eastwood, Eli Wallach, Lee Van Cleef</stars>
+        <genres>Western</genres>
+		<runtime>161 min.</runtime>
+		<imdb_rating>8,8</imdb_rating>
+        <country>Italy</country>
+        <language>Italian</language>
+		<url>https://www.imdb.com/title/tt0060196/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_9</url>
+    
+    </movie>
+    <movie>
+		<id>10</id>
+		<title>Yüzüklerin Efendisi: Yüzük Kardeşliği</title>
+        <original_title>The Lord of the Rings: The Fellowship of the Ring</original_title>
+        <year>2001</year>
+        <director>Peter Jackson</director>
+        <writer>J.R.R. Tolkien (novel), Fran Walsh (screenplay)</writer>
+        <stars>Elijah Wood, Ian McKellen, Orlando Bloom</stars>
+        <genres>Action, Adventure, Drama</genres>
+		<runtime>178 min.</runtime>
+        <imdb_rating>8,8</imdb_rating>
+        <countrt>New Zealand</country>
+        <language>New Zealand</language>
+		<url>https://www.imdb.com/title/tt0120737/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_10</url>
+    
+    </movie>
+	<movie>
+		<id>11</id>
+		<title>Dövüş Kulübü</title>
+        <original_title>Fight Club</original_title>
+        <year>1999</year>
+        <director>David Fincher</director>
+        <writer>Chuck Palahniuk (novel), Jim Uhls (screenplay)</writer>
+        <stars>Brad Pitt, Edward Norton, Meat Loaf</stars>
+        <genres>Drama</genres>
+		<runtime>139 min.</runtime>
+        <imdb_rating>8,8</imdb_rating>
+        <country>Germany</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0137523/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_11</url>
+    </movie>
+    <movie>
+		<id>12</id>
+		<title>Forrest Gump</title>
+        <original_title>-</original_title>
+        <year>1994</year>
+        <director>Robert Zemeckis</director>
+        <writer>Winston Groom (novel), Eric Roth (screenplay)</writer>
+        <stars>Tom Hanks, Robin Wright, Gary Sinise</stars>
+        <genres>Drama, Romance</genres>
+		<runtime>142 min.</runtime>
+        <imdb_rating>8,8</imdb_rating>
+        <country>USA</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0109830/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_12</url>
+    
+    </movie>
+	<movie>
+		<id>13</id>
+		<title>Başlangıç</title>
+        <original_title>Inception</original_title >
+        <year>2010</year>
+        <director>Christopher Nolan</director>
+        <writer>Christopher Nolan</writer>
+        <stars>Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page</stars>
+        <genres>Action, Adventure, Sci-Fi</genres>
+		<runtime>148 min.</runtime>
+        <imdb_rating>8,7</imdb_rating>
+        <country>USA</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt1375666/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_13</url>
+    
+    </movie>
+    <movie>
+		<id>14</id>
+		<title>Yüzüklerin Efendisi: İki Kule</title>
+        <original_title>The Lord of the Rings: The Two Towers</original_title>
+        <year>2002</year>
+        <director>Peter Jackson</director>
+        <writer>J.R.R. Tolkien (novel), Fran Walsh (screenplay)</writer>
+        <stars>Elijah Wood, Ian McKellen, Viggo Mortensen</stars>
+        <genres>Action, Adventure, Sci-Fi</genres>
+		<runtime>179 min.</runtime>
+        <imdb_rating>8,7</imdb_rating>
+        <country>New Zealand</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0167261/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_14</url>
+    
+    </movie>
+	<movie>
+		<id>15</id>
+		<title>Yıldız Savaşları: İmparator</title>
+        <original_title>Star Wars: Episode V - The Empire Strikes Back</originalnal_title>
+        <year>1980</year>
+        <director>Irvin Kershner</director>
+        <writer>Leigh Brackett (screenplay by), Lawrence Kasdan (screenplay by)</writer>
+        <stars>Mark Hamill, Harrison Ford, Carrie Fisher</stars>
+        <genres>Action, Adventure, Fantasy</genres>
+		<runtime>124 min.</runtime>
+        <imdb rating>8,7</imdb rating>
+        <country>USA</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0080684/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_15</url>
+    
+    </movie>
+    <movie>
+		<id>16</id>
+		<title>Matrix</title>
+        <original_title>The Matrix</original_title>
+        <year>1999</year>
+        <director>Lana Wachowski (as The Wachowski Brothers), Lilly Wachowski (as The Wachowski Brothers)</director>
+        <writer> Lilly Wachowski (as The Wachowski Brothers), Lana Wachowski (as The Wachowski Brothers)</writer>
+        <stars>Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss</stars>
+        <genres>Action, Sci-Fi</genres>
+		<runtime>136 min.</runtime>
+        <imdb_rating>8,7</imdb_rating>
+        <country>USA</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0133093/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_16</url>
+    
+    </movie>
+	<movie>
+		<id>17</id>
+		<title>Sıkı Dostlar</title>
+        <original_title>Goodfellas</original_title>
+        <year>1990</year>
+        <director>Martin Scorsese</director>
+        <writer>Nicholas Pileggi (book), Nicholas Pileggi (screenplay)</writer>
+        <stars>Robert De Niro, Ray Liotta, Joe Pesci</stars>
+        <genres> Biography, Crime, Drama</genres>
+		<runtime>146 min.</runtime>
+        <imdb_rating>8,6</imdb_rating>
+        <country>USA</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0099685/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_17</url>
+    
+    </movie>
+    <movie>
+		<id>18</id>
+		<title>Guguk Kuşu</title>
+        <original_title>One Flew Over the Cuckoo's Nest</original_title>
+        <year>1975</year>
+        <director>Milos Forman</director>
+        <writer> Lawrence Hauben (screenplay), Bo Goldman (screenplay)</writer>
+        <stars>Jack Nicholson, Louise Fletcher, Michael Berryman</stars>
+        <genres>Drama</genres>
+		<runtime>133 min.</runtime>
+        <imdb_rating>8,6</imdb_rating>
+        <country>USA</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0073486/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_18</url>
+    
+    </movie>
+	<movie>
+		<id>19</id>
+		<title>Yedi Samuray-Kanlı Pirinç</title>
+        <original_title>Shichinin no samurai</original_title>
+        <year>1954</year>
+        <director>Akira Kurosawa</director>
+        <writer>Akira Kurosawa (screenplay by), Shinobu Hashimoto (screenplay by)</writer>
+        <stars>Toshirô Mifune, Takashi Shimura, Keiko Tsushima</stars>
+        <genres>Action, Adventure, Drama</genres>
+		<runtime>207 min.</runtime>
+        <imdb_rating>8,6</imdb_rating>
+        <country>Japan</country>
+        <language>Japanese</language>
+		<url>https://www.imdb.com/title/tt0047478/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_19</url>
+    
+    </movie>
+    <movie>
+    <id>20</id>
+       <title>Yedi</title>
+        <original_title>Se7en</original_title>
+        <year>1995</year>
+        <director>David Fincher</director>
+        <writer>Andrew Kevin Walker</writer>
+        <stars> Morgan Freeman, Brad Pitt, Kevin Spacey</stars>
+        <genres>Crime, Drama, Mystery</genres>
+        <runtime>127 min.</runtime>
+        <imdb_rating>8,6</imdb_rating>
+        <country>USA</country>
+        <language>English</language>
+		<url>https://www.imdb.com/title/tt0114369/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=HWC68Y4B73FVZ5K3C4C0&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_20</url>
+    
+    </movie>
+</IMDB Top Rated Movies Catalog>
